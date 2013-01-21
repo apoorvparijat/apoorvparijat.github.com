@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Accurate and Instant Rank Tracking<br/><br/><a href='http://www.rankdemon.com'>RankDemon.com</a><br/><br/>"
+title: "Accurate and Instant Rank Tracking"
 description: ""
 category: 
 tags: []
@@ -8,6 +8,11 @@ tags: []
 {% include JB/setup %}
 
 <!-- ## Accurate and Instant Rank Tracking - RankDemon.com -->
+<h1 style="text-align:center"><a href='http://www.rankdemon.com'>RankDemon.com</a></h1>
+
+
+<br><br><br>
+<!-- <h1>[RankDemon](http://www.rankdemon.com)</h1> -->
 
 Hello,
 
