@@ -26,26 +26,26 @@ enter and you're shown real time progress feedback.
 From the user's review so far, my solution seems to be close.
 
 Here's one user review - 
----------------------------------------
-"I think the first thing that impressed me was the speed of the 
-site. I've used some similar type services in the past--by 
-comparison RankDemon had a really snappy interface. But even 
-better, as soon as I entered a site and keyword, I was shown 
-the current ranking.
 
-I entered some info where I knew the current ranking and 
-RankDemon came back with the same numbers.
+    "I think the first thing that impressed me was the speed of the 
+    site. I've used some similar type services in the past--by 
+    comparison RankDemon had a really snappy interface. But even 
+    better, as soon as I entered a site and keyword, I was shown 
+    the current ranking.
 
-You can categorize your sites into projects which can be 
-helpful if you have several different sites.
+    I entered some info where I knew the current ranking and 
+    RankDemon came back with the same numbers.
 
-I really like the layout of the screen where you have sites 
-and keywords listed in table form on the left, and a graph of 
-your ranking over time on the right.
+    You can categorize your sites into projects which can be 
+    helpful if you have several different sites.
 
-I'm very impressed so far, and the prices are better than 
-other services I've used in the past."
----------------------------------------
+    I really like the layout of the screen where you have sites 
+    and keywords listed in table form on the left, and a graph of 
+    your ranking over time on the right.
+
+    I'm very impressed so far, and the prices are better than 
+    other services I've used in the past."
+
 
 Few features (Alexa, Bing stats) are still on their way
 but the basics are in place. 
