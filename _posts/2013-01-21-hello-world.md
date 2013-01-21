@@ -6,5 +6,5 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-Hi,
-This is Apoorv.
+
+I'm Apoorv. CSE Grad student based in Delhi, India.
